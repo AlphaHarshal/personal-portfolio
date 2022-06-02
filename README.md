@@ -1,2 +1,2 @@
 # personal-portfolio
-personalinfo
+personal portfolio website
